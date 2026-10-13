@@ -1,5 +1,7 @@
 ## Getting Started
 
+This is Lily's test playground for building an application.  The game is Rock Paper Scissors.
+
 RockPaperScissors is a Java console app that is used to help teach a First Tech Challenge team how to build and debug Java applications using VS Code.
 
 See if you can find the logical errors and correct them.
